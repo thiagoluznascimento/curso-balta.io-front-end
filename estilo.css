@@ -1,0 +1,30 @@
+/* SELETORES
+    1) classe (.)   Posso ultilizar quantas vezes for necessário.
+    2) Id (#)       Posso ultilizar somente uma vez (seletor único)
+    3) p, h1 etc diretamente do HTML
+*/
+
+/*UNIDADES DE MEDIDAS
+    medidas relativas - conforme o tamanho do dispositivo
+    Ex: %
+    Ex: vw
+    Ex: vh
+    medidas relativas aplicadas a fonte:
+    em
+    rem
+
+
+    medidas absolutas - não mudam.
+     Ex: px
+*/
+
+.conteudo {
+    border: 2px solid #422;
+    background-color: bisque;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    background-image: url("/home/thiago/Imagens/1691615078697.jpeg");
+    background-repeat: no-repeat;
+    margin: 10% 5% 15% 3%;
+    padding: 2% 4% 5% 1%;
+}
