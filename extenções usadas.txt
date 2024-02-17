@@ -1,3 +1,5 @@
 auto rename tag
 Color Highlight
 Live Server
+
+https://developer.mozilla.org/pt-BR/
